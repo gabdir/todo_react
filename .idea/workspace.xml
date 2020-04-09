@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00744b3d-def2-4df5-a57f-33807b4dff45" name="Default Changelist" comment="Components of Todolist">
+    <list default="true" id="00744b3d-def2-4df5-a57f-33807b4dff45" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/item-add-form /index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/item-add-form /item-add-form.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/item-add-form /item-add-form.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/app/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/todo-list-item/todo-list-item.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/todo-list-item/todo-list-item.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/todo-list/todo-list.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/todo-list/todo-list.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -62,7 +67,8 @@
       <option name="presentableId" value="Default" />
       <updated>1584610572747</updated>
       <workItem from="1584610574014" duration="10371000" />
-      <workItem from="1585658654186" duration="478000" />
+      <workItem from="1585658654186" duration="4664000" />
+      <workItem from="1586353690103" duration="3252000" />
     </task>
     <task id="LOCAL-00001" summary="Components of Todolist">
       <created>1584800161995</created>
@@ -85,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585142920910</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="States of button and label">
+      <created>1585659275323</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1585659275323</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,7 +108,8 @@
     <MESSAGE value="Components of Todolist" />
     <MESSAGE value="Adding css" />
     <MESSAGE value="Changing the Structure and Creation component class." />
-    <option name="LAST_COMMIT_MESSAGE" value="Changing the Structure and Creation component class." />
+    <MESSAGE value="States of button and label" />
+    <option name="LAST_COMMIT_MESSAGE" value="States of button and label" />
   </component>
   <component name="WindowStateProjectService">
     <state x="423" y="238" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584891885495">
@@ -110,18 +124,18 @@
       <screen x="0" y="23" width="1440" height="810" />
     </state>
     <state x="186" y="183" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.810@0.23.1440.810" timestamp="1584610641636" />
-    <state x="312" y="33" key="CommitChangelistDialog2" timestamp="1585142920672">
+    <state x="23" y="32" key="CommitChangelistDialog2" timestamp="1585659275136">
       <screen x="0" y="23" width="1440" height="810" />
     </state>
-    <state x="312" y="33" key="CommitChangelistDialog2/0.23.1440.810@0.23.1440.810" timestamp="1585142920672" />
+    <state x="23" y="32" key="CommitChangelistDialog2/0.23.1440.810@0.23.1440.810" timestamp="1585659275136" />
     <state x="433" y="152" key="MultipleFileMergeDialog" timestamp="1584800818283">
       <screen x="0" y="23" width="1440" height="810" />
     </state>
     <state x="433" y="152" key="MultipleFileMergeDialog/0.23.1440.810@0.23.1440.810" timestamp="1584800818283" />
-    <state x="38" y="168" key="Vcs.Push.Dialog.v2" timestamp="1585142925202">
+    <state x="38" y="168" key="Vcs.Push.Dialog.v2" timestamp="1585659276945">
       <screen x="0" y="23" width="1440" height="810" />
     </state>
-    <state x="38" y="168" key="Vcs.Push.Dialog.v2/0.23.1440.810@0.23.1440.810" timestamp="1585142925202" />
+    <state x="38" y="168" key="Vcs.Push.Dialog.v2/0.23.1440.810@0.23.1440.810" timestamp="1585659276945" />
     <state x="509" y="352" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584800813850">
       <screen x="0" y="23" width="1440" height="810" />
     </state>
