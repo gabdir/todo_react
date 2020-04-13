@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00744b3d-def2-4df5-a57f-33807b4dff45" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/item-add-form /item-add-form.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/item-add-form /item-add-form.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/app/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/item-add-form /item-add-form.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/item-add-form /item-add-form.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/search-panel/search-panel.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/search-panel/search-panel.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +65,8 @@
       <updated>1584610572747</updated>
       <workItem from="1584610574014" duration="10371000" />
       <workItem from="1585658654186" duration="4664000" />
-      <workItem from="1586353690103" duration="4348000" />
+      <workItem from="1586353690103" duration="5242000" />
+      <workItem from="1586781425409" duration="1445000" />
     </task>
     <task id="LOCAL-00001" summary="Components of Todolist">
       <created>1584800161995</created>
@@ -137,9 +138,9 @@
       <screen x="0" y="23" width="1440" height="810" />
     </state>
     <state x="509" y="352" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.810@0.23.1440.810" timestamp="1584800813850" />
-    <state x="385" y="157" width="670" height="676" key="search.everywhere.popup" timestamp="1585132175858">
+    <state x="385" y="157" width="670" height="676" key="search.everywhere.popup" timestamp="1586781666290">
       <screen x="0" y="23" width="1440" height="810" />
     </state>
-    <state x="385" y="157" width="670" height="676" key="search.everywhere.popup/0.23.1440.810@0.23.1440.810" timestamp="1585132175858" />
+    <state x="385" y="157" width="670" height="676" key="search.everywhere.popup/0.23.1440.810@0.23.1440.810" timestamp="1586781666290" />
   </component>
 </project>
