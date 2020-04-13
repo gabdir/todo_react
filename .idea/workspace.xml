@@ -4,8 +4,7 @@
     <list default="true" id="00744b3d-def2-4df5-a57f-33807b4dff45" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/app/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/item-add-form /item-add-form.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/item-add-form /item-add-form.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/search-panel/search-panel.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/search-panel/search-panel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/item-status-filter/item-status-filter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/item-status-filter/item-status-filter.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +65,7 @@
       <workItem from="1584610574014" duration="10371000" />
       <workItem from="1585658654186" duration="4664000" />
       <workItem from="1586353690103" duration="5242000" />
-      <workItem from="1586781425409" duration="1445000" />
+      <workItem from="1586781425409" duration="3854000" />
     </task>
     <task id="LOCAL-00001" summary="Components of Todolist">
       <created>1584800161995</created>
